@@ -44,11 +44,24 @@ h3{
 }
 
 *{
-    border-radius: 4px;   
+    border-radius: 4px; 
+      
 }
 
 a {
     text-decoration: none;
     color: #000;
     text-underline-offset: 0px;
+}
+
+div.pankisar{
+    background-color: #ccd5ae; 
+    width: 80%;
+    height: 300px;
+
+    box-shadow: 10px 10px;
+
+    position: absolute;
+    top: 105%;
+    left: 10%;
 }
