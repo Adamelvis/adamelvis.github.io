@@ -38,6 +38,11 @@ div.text {
 
 }
 
+h3{
+    font-size: 22px;
+    margin-top: -20px;
+}
+
 *{
     border-radius: 4px;   
 }
