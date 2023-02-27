@@ -1,0 +1,36 @@
+body {
+    background-color: #fefae0;
+    text-align: center; 
+    background-size: 100%;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+    height: 100%;
+}
+
+div.container {
+    background-color: #d4a373; 
+    width: 80%;    
+    height: 80%;
+
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    box-shadow: 10px 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    gap:10%;
+}
+
+div.text {
+    background-color: #faedcd; 
+    width: 50%;
+    height: 50%;
+
+    box-shadow: 10px 10px;
+
+    height: 100px;
+
+}
